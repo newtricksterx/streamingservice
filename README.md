@@ -1,4 +1,4 @@
-# streamingservice
+# Streaming Service
 
 A program used to emulate certain functionalities of a streaming service such as spotify.
 
